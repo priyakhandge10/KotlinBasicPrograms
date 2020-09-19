@@ -2,4 +2,4 @@
 out
 *.iml
 lib
-.swp
+.gitignore.swp
